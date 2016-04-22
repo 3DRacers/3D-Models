@@ -28,7 +28,6 @@ Author: Marco D'Alia [@madarco]
 - stl: the latest 3D printable models of each car, fully functional models
 - minis: static models: a scaled version of the cars for display only. You'll also find there the car accessories (bumpers, spoilers, wheels, etc.)
 - customization: The holes and pins to use to design your own accessories. For the template to create a 3DRacers car body see: [Model Template](https://www.tinkercad.com/things/eMrdzYMlwBJ-3dracers-model-kit)
-- parametric_editor: the OpenJsCad sources of the script that generate **automaticly** the car models with all the screws holes, gears and steering. This is an advanced method to create a new car model, but that will guarantee that the model will remain compatible to new 3DRacers boards in the future.
 
 ## The PCB board
 
